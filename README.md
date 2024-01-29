@@ -98,6 +98,12 @@ You’ll upload the Python file for this assignment to your GitHub repository.
 
 * Submit the link to your GitHub project to Bootcamp Spot.
 
-![alt="image"](Images/PyChainLedger.png)
+![alt="image0"](Images/Terminal.png)  
+
+![alt="image1"](Images/PyChain.png)
+
+![alt="image"](Images/BlockInspector.png)
+
+![alt="image"](Images/Block.png)
 
 © 2021 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
