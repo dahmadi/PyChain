@@ -1,3 +1,5 @@
+Grade: 100/100
+
 # PyChain Ledger
 
 ![alt=""](Images/application-image.png)
